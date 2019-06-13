@@ -1,0 +1,9 @@
+.jumbotron {
+    background-image: url("https://image1.redbull.com/rbcom/010/2015-12-27/1331767414211_2/0010/1/1500/1000/2/star-wars-spaceships-death-star.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+h1, p {
+    color: white;
+}

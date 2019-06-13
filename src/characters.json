@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "name": "Han Solo",
+        "image": "./assets/images/hansolo.jpg"
+    },
+    {
+        "id": 2,
+        "name": "BB-8",
+        "image": "./assets/images/BB8.jpg"
+    },
+    {
+        "id": 3,
+        "name": "C-3PO",
+        "image": "./assets/images/C-3PO.png"
+    },
+    {
+        "id": 4,
+        "name": "Darth Vader",
+        "image": "./assets/images/darth-vader.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Jar Jar Binks",
+        "image": "./assets/images/jarjar.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Leia Organa",
+        "image": "./assets/images/leia.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Teen Anakin",
+        "image": "./assets/images/middle-anakin.jpg"
+    },
+    {
+        "id": 8,
+        "name": "R2-D2",
+        "image": "./assets/images/R2D2.jpg"
+    },
+    {
+        "id": 9,
+        "name": "Rey",
+        "image": "./assets/images/rey.jpg"
+    },
+    {
+        "id": 10,
+        "name": "Yoda",
+        "image": "./assets/images/yoda.jpg"
+    },
+    {
+        "id": 11,
+        "name": "Young Anakin",
+        "image": "./assets/images/young-anakin.jpg"
+    },
+    {
+        "id": 12,
+        "name": "Luke Skywalker",
+        "image": "./assets/images/luke.png"
+    }
+]

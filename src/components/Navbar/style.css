@@ -1,0 +1,13 @@
+nav {
+    height: 80px;
+    background-color: rgb(51, 216, 19);
+}
+
+h2 a {
+    color: white;
+}
+
+h2 a:hover {
+    text-decoration: none;
+    color: white;
+}
